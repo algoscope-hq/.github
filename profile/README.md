@@ -59,10 +59,12 @@ A high-performance, terminal-based user interface (TUI) for algorithmic visualiz
 We are an open-source organization and we love contributions! Whether you are a beginner fixing a typo, or a senior developer adding a complex pathfinding algorithm visualization, your PRs are always welcome.
 
 <a href="https://github.com/algoscope-hq/AlgoScope/blob/main/CONTRIBUTING.md">
-  <img src="https://img.shields.io/badge/Read_Contribution_Guidelines-2ea44f?style=for-the-badge" alt="Contributing" />
+  <img src="https://img.shields.io/badge/Read%20Contribution%20Guidelines-2ea44f?style=for-the-badge" alt="Contribution Guidelines" />
 </a>
+
 <br/><br/>
-Join our **[Discord Server](https://discord.gg/xxFRGj82xS)** to chat with the maintainers, get help with setting up the project locally, or discuss new features!
+
+Join our [Discord community](https://discord.gg/xxFRGj82xS) to chat with the maintainers, get help setting up the project locally, or discuss new features!
 
 ---
 
